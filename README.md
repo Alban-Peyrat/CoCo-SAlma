@@ -7,6 +7,7 @@ CoCo-SAlma est un outil visant à comparer les cotes renseignées dans le Sudoc 
 Les documents suivants se trouvent dans ce dépôt :
 
 * CoCo-SAlma2.xlsm : l'outil, version du script du 27 septembre 2021 à 17h00
+* vba_CoCo-SAlma2.vbs : le code VBA dans un fichier à part pour permettre son visionnage dans GitHub. __Inutile de le télécharger pour utiliser de CoCo-SAlma__
 * Fctnmt_CoCo-SAlma2.docx / .pdf : explication sur le fonctionnement de CoCo-SAlma2
 * Utiliser_CoCo-SAlma2.pptx / .pdf (du diaporama) / .docx : guide pour utiliser CoCo-SAlma2, la version texte n'est qu'un copier-coller du PowerPoint
 * Ressources [dossier] qui contient des fichiers préfaits pour effectuer des tests (ces listes proviennent d'export Alma pour ma bibliothèque) :
