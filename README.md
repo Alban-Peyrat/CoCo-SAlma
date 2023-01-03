@@ -1,5 +1,7 @@
 # CoCo-SAlma - Contrôle des correspondances des cotes Sudoc-Alma
 
+[![Abandonned](https://img.shields.io/badge/Maintenance%20Level-Abandoned-orange.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+
 Coco-Salma est un outil visant spécifiquement à contrôler la correspondance des cotes pour un PPN entre les données d'exemplaire du Sudoc en utilisant [le webservice MARCXML de l'Abes](http://documentation.abes.fr/sudoc/manuels/administration/aidewebservices/index.html#SudocMarcXML) et les holdings d'Alma. N'étant personnellement pas fan de posséder un document dans plusieurs localisations, elle signale également la présence de plusieurs cotes.
 
 **Évitez d'avoir d'autres fichiers Excel ouverts pendant l'analyse (dans le cas où une erreur de programmation pourrait faire intéragir Constance avec des fichiers non prévus).**
